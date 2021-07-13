@@ -17,6 +17,9 @@ The n puzzle is a classical problem for modelling algorithms involving heuristic
 ## Bonus (+1000)
 1. Show the steps in animation
 
+### Extra (+500)
+1. Deploy the website
+
 ## Score System
 1. Correctness
 2. Functionality
