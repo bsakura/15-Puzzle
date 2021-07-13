@@ -14,7 +14,7 @@ The n puzzle is a classical problem for modelling algorithms involving heuristic
 3. The program should find the steps to solve the 15 puzzle
 4. The program should return the order of the steps taken if the puzzle is solvable, if the puzzle is unsolvable, return with "Puzzle unsolvable"
 
-## Bonus (+1000)
+## Bonus (+500)
 1. Show the steps in animation
 
 ### Extra (+500)
