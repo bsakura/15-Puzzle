@@ -8,17 +8,15 @@ Named for the number of tiles in the frame, the 15 puzzle may also be called a 1
 
 The n puzzle is a classical problem for modelling algorithms involving heuristics. Commonly used heuristics for this problem include counting the number of misplaced tiles and finding the sum of the taxicab distances between each block and its position in the goal configuration.[1] Note that both are admissible, i.e. they never overestimate the number of moves left, which ensures optimality for certain search algorithms such as A*.<br>
 
-## Specification (2500)
-1. The 15 puzzle program should be web-based. You are free to use any language or framework
+## Specification (1500)
+1. The 15 puzzle program should be desktop-based. You are free to use any language or framework
 2. The program should receive input such as the order of the puzzle's number
 3. The program should find the steps to solve the 15 puzzle
 4. The program should return the order of the steps taken if the puzzle is solvable, if the puzzle is unsolvable, return with "Puzzle unsolvable"
 
-## Bonus (+500)
-1. Show the steps in animation
-
-### Extra (+500)
-1. Deploy the website
+## Bonus (1000)
+1. Make GUI
+2. Animate the steps taken to solve the puzzle
 
 ## Score System
 1. Correctness
