@@ -25,7 +25,7 @@ The n puzzle is a classical problem for modelling algorithms involving heuristic
 4. Creativity
 
 ## Execution
-1. Clone this repository and invite bsakura to your repository
+1. Create a repository and invite bsakura to your repository
 2. Make sure to set your repository private
 3. After finishing the task, edit the readme so it will contain how to run and explanation about the algorithm you use
 4. Contact line: byansakura14 to schedule a demo
